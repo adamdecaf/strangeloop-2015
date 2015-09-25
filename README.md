@@ -39,7 +39,7 @@ __1250__
 - [ ] Typed Clojure: From Optional to Gradual Typing - Ambrose Bonnaire-Sergeant
 - [ ] Visualising program execution - Jan Paul Posma
 - [ ] Aurelia - the next generation JavaScript framework you will love - Jakub Jedryszek
-- [ ] Strange loops: reasoning about knots with computers and powerful notation - Kay Ye
+- [x] [Strange loops: reasoning about knots with computers and powerful notation](talks/strange-loops.md) - Kay Ye
 
 __1340__
 
