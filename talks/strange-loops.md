@@ -35,3 +35,7 @@ By, Kay Ye
   - Minimal?
   - Is the notation bijective? Or are there repsentations or objects which don't have a mapping.
 - Program equivalence <-> Knot equivalence
+
+## Links
+
+- [hypotext/knotation](https://github.com/hypotext/knotation)
