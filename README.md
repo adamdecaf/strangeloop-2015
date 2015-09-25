@@ -47,7 +47,7 @@ __1340__
 - [ ] Literate interactive coding: Devcards - Bruce Hauman
 - [ ] "All In" With Determinism for Performance and Testing in Distributed Systems - John Hugg
 - [ ] HTTP/2 in Erlang - Joe DeVivo
-- [ ] GC Tuning Confessions Of A Performance Engineer - Monica Beckwith
+- [x] GC Tuning Confessions Of A Performance Engineer - Monica Beckwith
 
 __1430__
 
