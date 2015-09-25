@@ -51,7 +51,7 @@ __1340__
 
 __1430__
 
-- [ ] Building Scalable Stateful Services - Caitie McCaffrey
+- [x] Building Scalable Stateful Services - Caitie McCaffrey
 - [ ] Sweaters as a Service - Amy Wibowo
 - [ ] Probabilistic Programs Which Make (Common) Sense - Zenna Tavares
 - [ ] Gamma: A simple model for WebGL - Kovas Boguta
