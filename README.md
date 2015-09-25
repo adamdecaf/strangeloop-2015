@@ -57,14 +57,13 @@ __1430__
 - [ ] Gamma: A simple model for WebGL - Kovas Boguta
 - [ ] Look ma, no OS! Unikernels and their applications - Matt Bajor
 
-
 __1510 - 1540__
 
 - Break
 
 __1540__
 
-- [ ] Apache Kafka and the Next 700 Stream Processing Systems - Jay Kreps
+- [x] Apache Kafka and the Next 700 Stream Processing Systems - Jay Kreps
 - [ ] The art of service discovery at scale - Nitesh Kant
 - [ ] Beating Threads - live coding with real time - Sam Aaron
 - [ ] rustc in userland Richo Healey
