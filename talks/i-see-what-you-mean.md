@@ -20,7 +20,7 @@ By Peter Alvaro
 - Knowledge is relative
 - It only makes sense on one node at a given time on that node
 - State is induction in time
-- Evolved into a language called [bloom](), then build [Blazes](), then a project at Netflix
+- Evolved into a language called [bloom](http://www.bloom-lang.net/), then build [Blazes](http://www.cs.berkeley.edu/~palvaro/ICDE14_conf_full_205.pdf), then a project at Netflix
   - [eve]() a programming environment for non programmers
 
 ## Why invent languages?

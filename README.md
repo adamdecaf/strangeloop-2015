@@ -11,7 +11,7 @@
 
 __0910__
 
-- [ ] I See What You Mean - Peter Alvaro
+- [x] [I See What You Mean](talks/i-see-what-you-mean.md) - Peter Alvaro
 
 __1010__
 
@@ -19,14 +19,14 @@ __1010__
 - [ ] Safe and fast parsers with Nom and Rust - Geoffroy Couprie
 - [ ] How to Have your Causality and Wall Clocks, Too - Jon Moore
 - [ ] Teaching Kids Programming at the IOT Farm - Jessica Ellis
-- [ ] Managing Containers at Scale with CoreOS and Kubernetes - Kelsey Hightower
+- [x] [Managing Containers at Scale with CoreOS and Kubernetes](talks/containers-with-coreos-and-kubernetes.md) - Kelsey Hightower
 
 __1100__
 
 - [ ] Propositions as Types - Philip Wadler
 - [ ] Immutable Data Science with Datomic, Spark and Kafka - Konrad Scorciapino
 - [ ] Faster Objects and Arrays - Gil Tene
-- [ ] Building Isomorphic Web Applications with React - Elyse Kolker Gordon
+- [x] [Building Isomorphic Web Applications with React](talks/isomorphic-web-apps.md) - Elyse Kolker Gordon
 - [ ] How machine learning helps cancer research - Evelina Gabasova
 
 __1140 - 1250__
