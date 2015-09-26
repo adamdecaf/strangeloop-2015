@@ -94,7 +94,7 @@ __1010__
 
 __1100__
 
-- [ ] Transactions: myths, surprises and opportunities - Martin Kleppmann
+- [x] [Transactions: myths, surprises and opportunities](talks/transactions-myths-surprises-and-opportunities.md) - Martin Kleppmann
 - [ ] No, Really... Robots and JavaScript?! - Raquel V&#233lez
 - [ ] Pixie - A Lightweight Lisp with 'Magical' Powers - Timothy Baldridge
 - [ ] CRDTs Illustrated - Arnout Engelen
