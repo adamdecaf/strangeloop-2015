@@ -3,6 +3,7 @@
 ## Useful Links
 
 - Talks: http://www.thestrangeloop.com/schedule.html
+- Slides: https://github.com/strangeloop/StrangeLoop2015
 - Videos: TBA
 
 ## Talks
