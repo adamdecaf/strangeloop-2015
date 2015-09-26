@@ -114,7 +114,7 @@ __1250__
 
 __1340__
 
-- [ ] A History of Programming Languages for 2 Voices - David Nolen
+- [x] [A History of Programming Languages for 2 Voices](talks/history-of-programming-languages.md) - David Nolen, Michael R. Bernstein
 - [ ] Performance Engineering At MasterCard - Ted Boehm
 - [ ] How to run Neural Nets on GPUs - Melanie Warrick
 - [ ] How the web is democratizing science (join in!) - Abigail Cabunoc Mayes
