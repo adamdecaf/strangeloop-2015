@@ -106,7 +106,7 @@ __1140 - 1250__
 
 __1250__
 
-- [ ] Distributed, Eventually Consistent Computations - Christopher Meiklejohn
+- [x] [Distributed, Eventually Consistent Computations](talks/eventually-consistent-computations.md) - Christopher Meiklejohn
 - [ ] PTero: Architecture and Development of a Scalable Execution System for Complex Workflows - Michael Kiwala
 - [ ] Make the Back-End Team Jealous: Elm in Production - Richard Feldman
 - [ ] Kolmogorov music - Christopher Ford
