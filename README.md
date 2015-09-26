@@ -88,7 +88,7 @@ __1010__
 - [ ] Streams: The data structure we need - Pam Selle
 - [ ] The Programming Language Called Classical Chinese - David Branner
 - [ ] ~~When the OS gets in the way. - Mark Price~~
-  - [ ] (Replaced By) [Everything old is new again: Quoted Domain Specific Languages](talks/quoted-dsls.md) -- Philip Wadler
+  - [x] (Replaced By) [Everything old is new again: Quoted Domain Specific Languages](talks/quoted-dsls.md) -- Philip Wadler
 - [ ] Specter: overcome your fear of nested Clojure data- Nathan Marz
 - [ ] Side Effects are a Public API - Christopher Armstrong
 
