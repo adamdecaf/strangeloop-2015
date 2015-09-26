@@ -126,7 +126,7 @@ __1430__
 - [ ] Cursors Illustrated: Collaborative sketching for better understanding of functional programming and the web - Ryan Dy
 - [ ] One weird trick to lose five bugs off your distributed system instantly! - Camille Fournier
 - [ ] Feet in Both Worlds: From Objective-C to Swift - Andy Matuschak
-- [ ] Cognitive Bias: A reflection and path forward - Bryan Liles
+- [x] [Cognitive Bias: A reflection and path forward](talks/cognitive-bias.md) - Bryan Liles
 
 __1510 - 1540__
 
