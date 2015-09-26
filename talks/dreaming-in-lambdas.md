@@ -2,4 +2,7 @@
 
 By, Kathy Sierra
 
-##
+## Change
+
+- The only guarantee in life is Change.
+- Failure is ok.

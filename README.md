@@ -47,11 +47,11 @@ __1340__
 - [ ] Literate interactive coding: Devcards - Bruce Hauman
 - [ ] "All In" With Determinism for Performance and Testing in Distributed Systems - John Hugg
 - [ ] HTTP/2 in Erlang - Joe DeVivo
-- [x] GC Tuning Confessions Of A Performance Engineer - Monica Beckwith
+- [x] [GC Tuning Confessions Of A Performance Engineer](talks/gc-tuning-confessions.md) - Monica Beckwith
 
 __1430__
 
-- [x] Building Scalable Stateful Services - Caitie McCaffrey
+- [x] [Building Scalable Stateful Services](talks/scalable-stable-services.md) - Caitie McCaffrey
 - [ ] Sweaters as a Service - Amy Wibowo
 - [ ] Probabilistic Programs Which Make (Common) Sense - Zenna Tavares
 - [ ] Gamma: A simple model for WebGL - Kovas Boguta
@@ -63,7 +63,7 @@ __1510 - 1540__
 
 __1540__
 
-- [x] Apache Kafka and the Next 700 Stream Processing Systems - Jay Kreps
+- [x] [Apache Kafka and the Next 700 Stream Processing Systems](talks/kafka.md) - Jay Kreps
 - [ ] The art of service discovery at scale - Nitesh Kant
 - [ ] Beating Threads - live coding with real time - Sam Aaron
 - [ ] rustc in userland Richo Healey
@@ -71,7 +71,7 @@ __1540__
 
 __1630__
 
-- [ ] From Protesting to Programming: Becoming a Tech Activist - Abby Bob&#233
+- [x] [From Protesting to Programming: Becoming a Tech Activist](talks/protesting-to-programming.md) - Abby Bob&#233
 
 __2100 - 2200__
 
@@ -81,13 +81,14 @@ __2100 - 2200__
 
 __0910__
 
-- Dreaming in Lambdas: why should AI's have all the fun? - Kathy Sierra
+- [Dreaming in Lambdas: why should AI's have all the fun?](talks/dreaming-in-lambdas.md) - Kathy Sierra
 
 __1010__
 
 - [ ] Streams: The data structure we need - Pam Selle
 - [ ] The Programming Language Called Classical Chinese - David Branner
-- [ ] When the OS gets in the way. - Mark Price
+- [ ] ~~When the OS gets in the way. - Mark Price~~
+  - [ ] (Replaced By) [Everything old is new again: Quoted Domain Specific Languages](talks/quoted-dsls.md) -- Philip Wadler
 - [ ] Specter: overcome your fear of nested Clojure data- Nathan Marz
 - [ ] Side Effects are a Public API - Christopher Armstrong
 
