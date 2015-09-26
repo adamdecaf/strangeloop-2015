@@ -134,7 +134,7 @@ __1510 - 1540__
 
 __1540__
 
-- [ ] Architectural Patterns of Resilient Distributed Systems - Ines Sombra
+- [x] [Architectural Patterns of Resilient Distributed Systems](talks/resilint-distributed-systems.md) - Ines Sombra
 - [ ] Cleaning the Tar: Using React within the Firefox Developer Tools - James Long
 - [ ] Evidence-Oriented Programming - Andreas Stefik
 - [ ] JuMP: a modeling language for optimization inside Julia - Iain Dunning
