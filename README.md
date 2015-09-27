@@ -143,4 +143,4 @@ __1540__
 
 __1630__
 
-- [ ] TBD - Morgan Marquis-Boire
+- [x] [Security For Humans: Privacy And Coercion Resistant Design](talks/security-for-humans.md) - Morgan Marquis-Boire
