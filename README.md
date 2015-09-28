@@ -4,7 +4,7 @@
 
 - Talks: http://www.thestrangeloop.com/schedule.html
 - Slides: https://github.com/strangeloop/StrangeLoop2015
-- Videos: TBA
+- Videos: https://www.youtube.com/playlist?list=PLcGKfGEEONaCIl5eU53uPBnRJ9rbIH32R
 
 ## Talks
 
