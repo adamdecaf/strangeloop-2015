@@ -24,7 +24,7 @@ __1010__
 
 __1100__
 
-- [ ] Propositions as Types - Philip Wadler
+- [ ] Propositions as Types ([paper](https://github.com/adamdecaf/strangeloop-2015/blob/master/papers/propositions-as-types.pdf))- Philip Wadler
 - [ ] Immutable Data Science with Datomic, Spark and Kafka - Konrad Scorciapino
 - [ ] Faster Objects and Arrays - Gil Tene
 - [x] [Building Isomorphic Web Applications with React](talks/isomorphic-web-apps.md) - Elyse Kolker Gordon
